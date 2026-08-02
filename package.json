@@ -1,0 +1,2 @@
+{ "name": "the-batch", "type": "module", "private": true,
+  "dependencies": { "googleapis": "^144.0.0" } }
