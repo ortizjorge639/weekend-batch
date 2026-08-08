@@ -1,0 +1,78 @@
+{
+  "week": "2026-08-08",
+  "window": {
+    "from": "2026-08-01",
+    "to": "2026-08-08"
+  },
+  "syncedAt": {
+    "bookmarks": null,
+    "emails": "2026-08-08T13:41:28.681Z"
+  },
+  "bookmarks": [],
+  "emails": [
+    {
+      "itemId": "f8461dff99bb",
+      "type": "mail",
+      "source": "Starred Email",
+      "when": "Jul 31",
+      "author": "NewtonX Community",
+      "handle": "Starred",
+      "title": "Paid survey with NewtonX - $30",
+      "quote": "NewtonX NewtonX Earn compensation for your expertise in our paid research study. Hi Jorge, We value your expertise and would like to invite you to participate in a paid research opportunity. We&#39;re",
+      "tags": [],
+      "url": "https://mail.google.com/mail/u/0/#all/thread-f:19fb8bc87abc16f4",
+      "state": "new",
+      "threads": [],
+      "spar": [
+        [
+          "Is expert-network research worth the time?",
+          "Value vs. effort"
+        ]
+      ],
+      "act": [
+        [
+          "Add to my to-dos with deadline",
+          "Claim before it expires"
+        ],
+        [
+          "Draft a profile update for higher-paying studies",
+          "Per their suggestion"
+        ]
+      ]
+    },
+    {
+      "itemId": "53d722cea66a",
+      "type": "mail",
+      "source": "Starred Email",
+      "when": "Aug 1",
+      "author": "The Substack Post",
+      "handle": "Starred",
+      "title": "“You can’t transform the world unless you can understand it, and you can’t understand the world unless you can mea…",
+      "quote": "In this edition of The Weekender: grappling with potential, scamming a scammer, and AI&#39;s actual impact ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+      "tags": [],
+      "url": "https://mail.google.com/mail/u/0/#all/thread-f:19fbdff4d5947d6b",
+      "state": "new",
+      "threads": [],
+      "spar": [
+        [
+          "What's the sharpest take here?",
+          "Find the one argument worth debating"
+        ],
+        [
+          "Counter the headline thesis",
+          "Steel-man the opposite view"
+        ]
+      ],
+      "act": [
+        [
+          "Give me the 3-min version",
+          "Tight summary"
+        ],
+        [
+          "Pull the best reshare-worthy quote",
+          "One line"
+        ]
+      ]
+    }
+  ]
+}
