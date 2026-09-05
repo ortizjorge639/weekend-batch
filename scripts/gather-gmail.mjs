@@ -217,7 +217,8 @@ async function main() {
     newEmails = await fetchStarredEmails(from, toPlus1);
   } catch (err) {
     console.error('[batch] Gmail fetch error:', err.message);
-    process.exit(1);
+    console.error('[batch] Skipping Gmail sync for this run (non-fatal) — check GMAIL_REFRESH_TOKEN if this persists.');
+    newEmails = [];
   }
 
   // --- Merge prior state into new emails ---
